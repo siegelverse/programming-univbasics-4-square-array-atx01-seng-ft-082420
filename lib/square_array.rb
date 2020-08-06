@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  numbers = [20, 30, 40]
+  new_numbers = []
+  new_number.push(Math.sqrt(numbers))
 end
