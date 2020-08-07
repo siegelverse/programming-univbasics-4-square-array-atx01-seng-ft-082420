@@ -3,7 +3,7 @@ def square_array(array)
   new_numbers = []
   while counter < array.length do 
    new_number.push(new_number ** 2) 
-   new_number += 1
+   counter += 1
 end
 new_number 
 end 
